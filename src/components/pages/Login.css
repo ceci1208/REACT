@@ -1,0 +1,52 @@
+.imgBack {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/000/539/319/large_2x/vector-musical-seamless-background-with-different-insrtuments.jpg');
+    max-width: 100%;
+    max-height: 100%;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    overflow: auto;
+    position: fixed;
+    right: 0;
+    top: 0;
+    -o-object-fit: contain;
+    object-fit: contain;
+}
+
+.Div1 {
+    mask: initial;
+    display: flex;
+    align-items: center;
+    height: 100;
+}
+
+.Div2 {
+    height: 100;
+    margin-top: 10%;
+    margin-bottom: 1%;
+    align-items: center;
+}
+
+.Div3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100;
+}
+
+.Div5 {
+    border-radius: 15px;
+}
+
+.Div6 {
+    padding: 5;
+}
+
+.H2-1 {
+    text-align: center;
+}
+
+.btnRegister{
+    background-color: transparent;
+    border: none;
+}
